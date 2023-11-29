@@ -20,8 +20,7 @@ O Sistema de Compra Steam é uma plataforma online dedicada à aquisição de jo
 
 
 #Diagrama de Casos de Uso
-
-![Diagrama de Casos de Uso](![image](https://github.com/luiz-eduardo-sobral/SistemaCompraSteam/assets/125269338/5020495c-5aee-4461-bdd7-d0f45c70e18c)
+(![image](https://github.com/luiz-eduardo-sobral/SistemaCompraSteam/assets/125269338/5020495c-5aee-4461-bdd7-d0f45c70e18c)
 
 
 #Protótipo do Sistema
