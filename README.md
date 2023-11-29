@@ -1,6 +1,6 @@
 # SistemaCompraSteam
 
- Descrição do Sistema
+ #Descrição do Sistema
 
 O Sistema de Compra Steam é uma plataforma online dedicada à aquisição de jogos digitais na popular plataforma de distribuição de jogos para PC, a Steam. Nosso objetivo é proporcionar uma experiência de compra eficaz e centrada no usuário, atendendo às crescentes demandas dos entusiastas de jogos digitais.
 
@@ -18,6 +18,11 @@ O Sistema de Compra Steam é uma plataforma online dedicada à aquisição de jo
 
 - Acesso Móvel: Explore e compre jogos facilmente, mesmo em movimento, utilizando dispositivos móveis.
 
-Diagrama de Casos de Uso
 
-![Diagrama de Casos de Uso](url_do_diagrama)
+#Diagrama de Casos de Uso
+
+![Diagrama de Casos de Uso]([url_do_diagrama](https://github.com/luiz-eduardo-sobral/SistemaCompraSteam/blob/main/Diagrama%20em%20branco%202.pdf)https://github.com/luiz-eduardo-sobral/SistemaCompraSteam/blob/main/Diagrama%20em%20branco%202.pdf)
+
+#Protótipo do Sistema
+
+![Protótipo do Sistema](url_do_prototipo)
